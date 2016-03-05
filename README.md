@@ -25,7 +25,7 @@ When we have analysed the common concerns from the people, we have found that th
 In another interview, Ms Shalini Reddy (working for an MNC in Gurgaon) said “As my company lacks transportation facility, sometimes it’s not safe to commute in late hours”. Safely is one of the concerns which people concerns in Delhi/NCR especially for ladies.
 The trend which we have identified with the response is as below:
 
-![Alt Text](https://github.com/eswarkrishna/GroupAssignment/blob/master/Group_assignment_DC_1.jpg)
+![Alt Text](https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart1.jpg)
 
 
 
