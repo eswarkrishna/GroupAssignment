@@ -46,7 +46,7 @@ In one of the interview Mr. Sharma (an accountant by profession who commutes dai
 
 
 *****
-### Web survey link.
+### Web survey link
 
 [Web Survey Link](https://isb.au1.qualtrics.com/jfe/form/SV_6KcIYwtc1RPXNYx)
 
