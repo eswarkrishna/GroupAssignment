@@ -16,7 +16,7 @@ We have chosen SHUTTL services because out of all the services it is the most ec
 * Should we redefine our  marketing strategies in  Delhi NCR to increase our customer base
 
 # Research Objectives
-* Identify new customer prospects
+* Identify new customer prospects.
 * Track the satisfaction of current customers.
 
 *****
