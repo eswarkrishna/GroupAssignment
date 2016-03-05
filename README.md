@@ -10,7 +10,7 @@
 # About Client
 *SHUTTL* is the future of public transport. It's a mobile based minibus service aimed at making your daily commute more convenient. Our vehicles are air-conditioned and operate with high frequency on fixed routes freeing you from the hassles of existing public transport options at a very economical price point. We are currently serving Delhi NCR and soon expanding to other cities.
 
-We have chosen SHUTTL services because out of all the services it is the most economical and enhances the life of majority of the people who belong to a middle class family. Since enormous amount of population belong to middle class family, therefore the scope of expansion for such services will be exponential.
+We have chosen *SHUTTL* services because out of all the services it is the most economical and enhances the life of majority of the people who belong to a middle class family. Since enormous amount of population belong to middle class family, therefore the scope of expansion for such services will be exponential.
 
 ******
 # Decision Problem
