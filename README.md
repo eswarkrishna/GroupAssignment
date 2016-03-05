@@ -61,6 +61,8 @@ The most challenging construct is to measure the customer satisfaction, since pe
 
 Since Delhi NCR already has other companies like OLA, Trevo, etc. which provide pretty decent services and prices, therefore in order to compete with these companies we have to launch our campaign which not only markets SHUTTL as a better transport provider, but also proves to be the most economical.
 
+After reviewing the insights of the feedback, we will understand the requirements of our future customers for our future markets which would positively make us the future leaders.
+
 
 
 
