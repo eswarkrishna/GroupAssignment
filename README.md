@@ -37,9 +37,9 @@ The trend which we have identified with the response is as below:
 ### Maps Constructs to question Numbers
 | Construct|Question Number|
 |---|---|
-|   |   |
-|   |   |
-|   |   |
+|  Target Audience |  1,2,4,6,7,8,9,10,12,13,14,16,23 |
+|  Service Quality | 15,18,19,20,21,22  |
+
 
 
 
@@ -54,7 +54,19 @@ https://isb.au1.qualtrics.com/jfe/form/SV_6KcIYwtc1RPXNYx
 
 *****
 ### Learnings while doing the assignment
+We have tried to measure our Research objectives on various constructs like Necessity, Audience, service quality and affordability. 
+Out of all, the most interesting one is the "target audience", as this factor is very important to gain insights of the 
+needs of the people who would be using our services.  What are the most important features they look in a transport service provider.
+The mission of our company is to bridge the gap of customer expectations and an inefficient transport system.  
 
+The most challenging construct is to measure the customer satisfaction, since people are keen on minor service quality factors.
+And a small deviation might be damaging.
+We have also measured other constructs like affordability, security which gave us a picture how we doing with our current services.
+
+Since Delhi NCR already has other companies like OLA, Trevo which provide pretty decent services and prices, therefore in order to compete with these 
+companies we have to launch our campaign which not only markets Shuttl as a better transport provider, but also proves to be the most economical.
+
+After reviewing the insights of the feedback, we will understand the requirements of our future customers for our future markets which would positively make us the future leaders.
 
 
 
