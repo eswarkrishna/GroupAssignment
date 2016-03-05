@@ -15,7 +15,7 @@ Should we redefine our  marketing strategies in  Delhi NCR to increase our custo
 
 ### Research Objectives
 * Identify new customer prospects
-* Define effective pricing model.
+* Track the satisfaction of current customers.
 
 *****
 ### Qualitative Research
