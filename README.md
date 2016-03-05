@@ -4,8 +4,8 @@
 
 ### 71610025 - BASAVA ESWARA KRISHNA ALURI
 ### -------- - SHANTNU GUPTA
-### -------- - Kartik Maheswari
-### -------- - Mohit kalsi
+### -------- - KARTIK MAHESWARI
+### -------- - MOHIT KALSI
 ******
 # About Client
 ### *Shuttl* is the future of public transport. It's a mobile based minibus service aimed at making your daily commute more convenient. Our vehicles are air-conditioned and operate with high frequency on fixed routes freeing you from the hassles of existing public transport options at a very economical price point.We are currently serving Delhi NCR and soon expanding to other cities.
@@ -43,6 +43,7 @@ The trend which we have identified with the response is as below:
 *****
 ### Web survey link.
 
+https://isb.au1.qualtrics.com/jfe/form/SV_6KcIYwtc1RPXNYx
 
 
 
