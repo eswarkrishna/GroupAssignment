@@ -50,7 +50,7 @@ In one of the interview Mr. Sharma (an accountant by profession who commutes dai
 
 https://isb.au1.qualtrics.com/jfe/form/SV_6KcIYwtc1RPXNYx
 
-For PDF version click ![here](https://github.com/eswarkrishna/GroupAssignment/blob/master/SHUTTL_MarketAnalysis_Survey.pdf)
+For PDF version click [here](https://github.com/eswarkrishna/GroupAssignment/blob/master/SHUTTL_MarketAnalysis_Survey.pdf)
 
 
 *****
