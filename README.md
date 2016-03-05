@@ -26,7 +26,7 @@ Since we are a growing company in a competitive environment like Delhi NCR, we w
 In order to understand the needs of the people, we have done the required preliminary research. For the purpose, we have randomly chosen people around Delhi NCR and after understanding the common concerns of the people, it is found that the basic necessities are safety, reliability and comfort.
 In one of the interview Mr. Sharma (an accountant by profession who commutes daily from Noida to Central Delhi) said, “As summers are approaching in few weeks, it’s very difficult to travel in overburdened public transport daily”. In another interview, Ms. Shalini Reddy (working for an MNC in Gurgaon) said “As my company lacks transportation facility, sometimes it’s not safe to commute in late hours”. Reliability is also one of the major concerns for people in Delhi/NCR as the current transportation system includes many hiccups like traffic jams, etc. due to which timely arrival of transport is one of the biggest challenge in the minds of the people. Also, due to high number of criminal activities in the region, Safety has its own importance. The trend which we have identified with the response is as below:
 
-![Alt Text](https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart2.jpg)
+![Alt Text](https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart3.jpg)
 
 
 
