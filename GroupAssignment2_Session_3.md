@@ -215,13 +215,15 @@ m<-mcGoogleMaps(sample,zcol = "type", mapTypeId='ROADMAP') # Plot on Google maps
  ********
 ## Results of analysis
 
+###Note: The areas are highlighted in red circles.
+
 * Hauz khas
 Outer ring road / Aurobindo Marg: 
 
 All the four targeted proxies lie in this area, making the area highly likely to be visible to our target segments. Regular movement of the traffic ensures that the ad is visible to a large chunk of population.
 <html>
 <body>
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart1.jpg?raw=true" alt="DC_Chart1.jpg">
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Hauz%20Khas.png?raw=true" alt="DC_Chart1.jpg">
 </body>
 </html>
 
@@ -243,7 +245,7 @@ The cluster in CP comprises of multiple metro stations and liquor store. This co
 It is one of the most densely populated area of Delhi, with local population in majority. Bill boards in area will help target a) Local Delhites prone to bad health because of the high pollution levels in this area. 2) People taking bus and metro for commuting, and therefore making them aware of these services. 
 <html>
 <body>
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart1.jpg?raw=true" alt="DC_Chart1.jpg">
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Raja%20Garden%20Chowk.png?raw=true" alt="DC_Chart1.jpg">
 </body>
 </html>
 
@@ -254,6 +256,18 @@ It is one of the most densely populated area of Delhi, with local population in 
 Metro station, bus stations, Cementry lies equidistant from this location. These places brings our target population'd view on the bill boards placed a this area.
 <html>
 <body>
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart1.jpg?raw=true" alt="DC_Chart1.jpg">
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Noida-NH24%20Link.png?raw=true" alt="DC_Chart1.jpg">
 </body>
 </html>
+
+## Clusetered setup
+
+* Cluster Setup
+
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Delhi%20Cluster%20View.png?raw=true" alt="DC_Chart1.jpg">
+</body>
+</html>
+
+
