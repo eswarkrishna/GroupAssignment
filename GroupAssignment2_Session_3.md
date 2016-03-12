@@ -41,6 +41,7 @@ Delhi , being capital, is one of the most densely populated cities in the countr
 * Liquor store - Placing billboards at these locations will hit the psychological mind set of the buyer regarding health awareness, as alcohol consumption lead to health problems.
 
 # Code
+```
 <p><code>
 library("RCurl")
 library("jsonlite")
@@ -205,7 +206,7 @@ coordinates(sample) <-~ lng +lat # Create cordinates
 proj4string(sample) = CRS('+proj=longlat +datum=WGS84') # Add Projections
 
 m<-mcGoogleMaps(sample,zcol = "type", mapTypeId='ROADMAP') # Plot on Google maps
-
+```
 </code></p>
  
 ## Results of analysis
