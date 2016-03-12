@@ -10,11 +10,11 @@
 ## Client
 ### City Hospital
 
-# Decision problem
+# Decision problem[TBD]
  
 ## Should densely populated places be targeted for the billboards placement
 
-#RO
+# Research Objective
  
 ## Identify factors  which the hospital should  take into account while placing the billboards across the city.
 
@@ -39,3 +39,7 @@ Delhi , being capital, is one of the most densely populated cities in the countr
 * Funeral home/cementry - vulnerable state of mind. Putting hoardings around these locations will help generate awareness in people about the things which can be done in life threatening, devastating times.
  
 * Liquor store - Placing billboards at these locations will hit the psychological mind set of the buyer regarding health awareness, as alcohol consumption lead to health problems.
+ 
+## Results of analysis
+
+
