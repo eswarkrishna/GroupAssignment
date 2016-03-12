@@ -37,10 +37,10 @@ Delhi , being capital, is one of the most densely populated cities in the countr
 ********
 
 ## Proxies used
-### Subway station
-### Bus Station
-### Liquor store
-### Cemetery
+* Subway station
+* Bus Station
+* Liquor store
+* Cemetery
 
 ********
 
