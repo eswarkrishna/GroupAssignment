@@ -211,4 +211,5 @@ m<-mcGoogleMaps(sample,zcol = "type", mapTypeId='ROADMAP') # Plot on Google maps
  
 ## Results of analysis
 
-
+###Location 1
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart3.jpg"/>
