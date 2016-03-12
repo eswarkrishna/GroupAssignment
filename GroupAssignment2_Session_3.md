@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # *Group Name - Team Analytics*
 
 ### 71610025 - BASAVA ESWARA KRISHNA ALURI
@@ -212,4 +215,8 @@ m<-mcGoogleMaps(sample,zcol = "type", mapTypeId='ROADMAP') # Plot on Google maps
 ## Results of analysis
 
 ###Location 1
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart3.jpg"/>
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/DC_Chart1.jpg?raw=true" alt="DC_Chart1.jpg">
+</body>
+</html>
