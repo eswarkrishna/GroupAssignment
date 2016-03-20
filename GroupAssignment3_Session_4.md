@@ -280,29 +280,67 @@ temp2 = eta.file(twc,textdata,5)
 #### Word Cloud and Co occurrence graph
 <html>
 <body>
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Hauz%20Khas.png?raw=true" alt="Hauz khas">
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_CLOUD1.png?raw=true" alt="Hauz khas">
 </body>
 </html>
 <html>
 <body>
-<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Hauz%20Khas.png?raw=true" alt="Hauz khas">
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_C1.png?raw=true" alt="Hauz khas">
 </body>
 </html>
+#### Analysis
 The latent topic covers the new manufacturing processes for Solar-power and obtain IP rights on the same which can risk their credibility in the market. The companies are also worries about their inventories and risks associated with them.
  
  *******
  
 ### Topic 2: The Company Client Relationship
+#### Word Cloud and Co occurrence graph
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_CLOUD2.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_C2.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+#### Analysis
+
 The latent topic captures the company’s relationship risks with their clients. The companies are worried about their clients in Health care, financial services, and their co-relation with Net sales which is driven by these clients. And also, the companies are worried about the net-sales associated with their clients. Companies are also worried about the regulatory risks from federal government.
  
  ********
  
 ### Topic 3:  Financial Specific
+#### Word Cloud and Co occurrence graph
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_CLOUD3.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_C3.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+#### Analysis
 The latent topic captures the risks of indebtness of the data centers. The changes in the packaging in the semi-conductor industry will impact the companies in million. The companies have also mentioned the risk about their credit facilities due to senior-unsecured.
  
  *********
  
 ### Topic 4: Competitors Acquisitions and Merger
+#### Word Cloud and Co occurrence graph
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_CLOUD4.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/Session4/K4_C4.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+#### Analysis
 The latent topic captures the risks of the mergers and acquisitions of different companies which creates difficult challenges to maintain their current market with the increase in number of subscribers. The companies also feel the risk of advertising and search revenues.
 
 
