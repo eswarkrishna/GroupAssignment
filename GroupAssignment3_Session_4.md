@@ -276,6 +276,18 @@ temp2 = eta.file(twc,textdata,5)
 ## Intepretations of the topics
 
 ### Topic 1: Manufacturing Specific
+
+#### Word Cloud and Co occurrence graph
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Hauz%20Khas.png?raw=true" alt="Hauz khas">
+</body>
+</html>
+<html>
+<body>
+<img src="https://github.com/eswarkrishna/GroupAssignment/blob/master/session_3/Hauz%20Khas.png?raw=true" alt="Hauz khas">
+</body>
+</html>
 The latent topic covers the new manufacturing processes for Solar-power and obtain IP rights on the same which can risk their credibility in the market. The companies are also worries about their inventories and risks associated with them.
  
  *******
