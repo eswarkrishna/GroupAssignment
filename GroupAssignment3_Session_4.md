@@ -1,3 +1,13 @@
+# Data Collection Group Assignment 1
+
+## *Group Name - Team Analytics*
+
+### 71610025 - BASAVA ESWARA KRISHNA ALURI
+### 71610076 - SHANTNU GUPTA
+### 71610032 - KARTIK MAHESWARI
+### 71610038 - MOHIT KALSI
+******
+
 ---
 title: "Latent Topic Mining"
 author: "Data Collection for Biz Analytics @ ISB"
