@@ -4,16 +4,11 @@
 
 ### 71610025 - BASAVA ESWARA KRISHNA ALURI
 ### 71610076 - SHANTNU GUPTA
-### 71610032 - KARTIK MAHESWARI
+### 71610032 - KARTIK MAHESHWARI
 ### 71610038 - MOHIT KALSI
 ******
 
----
-title: "Latent Topic Mining"
-author: "Data Collection for Biz Analytics @ ISB"
-date: "3 March 2016"
-output: html_document
----
+# Problem description and changed Code
 
 In this article we will look how to fit a Latent Topic model and interpret the topics. For illustration, I will demonstrate topic analysis based on SEC 10-K filings of 20 randomly chosen firms in the Technology sector from the Fortune 1000. (Recall what is 10K. It was discussed in class. Else, please scan through this [wiki link](https://en.wikipedia.org/wiki/Form_10-K)) In this homework, we are primarily interested in 2 sections in the 10-K - Items 1 and 1A (Business Description and Risk Factors, respectively).  Again, for illustrative purposes, I'll topic-analyse on Item 1 data for these 20 random Tech firms. Even though we did not cover this in any detail in class, the specific model we will be using in R for topic-analysis is the famous [LDA model](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation). Going through the link is encouraged for better understanding the model, but optional from an exam point of view.
 
@@ -57,7 +52,7 @@ dtm1 = readRDS(file.choose())         # Select dtm1.BD.Rds or dtm1.RF.Rds
 ```{r, warning=F}
 dtm1 = weightTfIdf(dtm1,normalize = TRUE) # changes for tF IDF
 
-K = 2 # Choose number of topics in the model
+K = 4 # Choose number of topics in the model
 simfit = topics(dtm1,  K = K, verb = 2) # Fit the K topic model
 summary(simfit, nwrd = 12)  # Summary of simfit model
 ```
@@ -307,7 +302,7 @@ The latent topic covers the new manufacturing processes for Solar-power and obta
 </html>
 #### Analysis
 
-The latent topic captures the company’s relationship risks with their clients. The companies are worried about their clients in Health care, financial services, and their co-relation with Net sales which is driven by these clients. And also, the companies are worried about the net-sales associated with their clients. Companies are also worried about the regulatory risks from federal government.
+The latent topic captures the companyâs relationship risks with their clients. The companies are worried about their clients in Health care, financial services, and their co-relation with Net sales which is driven by these clients. And also, the companies are worried about the net-sales associated with their clients. Companies are also worried about the regulatory risks from federal government.
  
  ********
  
