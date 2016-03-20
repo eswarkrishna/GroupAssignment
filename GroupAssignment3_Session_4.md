@@ -53,6 +53,7 @@ dtm1 = readRDS(file.choose())         # Select dtm1.BD.Rds or dtm1.RF.Rds
 
 [Of course, a priori, we wouldn't know how many topics are really there. So we do trial-and-error. We choose K = 2, then 3, then 4 and so on till we think the results look reasonable and interpretable.]
 
+[Changes done in the line number 58 for the calculation of TF-IDF instead of TF]
 ```{r, warning=F}
 dtm1 = weightTfIdf(dtm1,normalize = TRUE) # changes for tF IDF
 
@@ -267,5 +268,29 @@ temp2 = eta.file(twc,textdata,5)
 
 ```
 
-Now based on wordclouds, document content and companies name we can interpret and label topics.
+## Reason of Selection of TFIDF instead of TF
+* For the data mining pre-processes, the TFIDF is yielding cleaner results. The results seem to be more appropriate and relevant for interpretation.
+ 
+* After doing hit and trial for different values of K with combination of TF & TFIDF, it is conclusive that the results for K=4 are more relevant and yields result which can contribute to decision making and help them anticipate the risks more accurately in the coming year.
+
+## Intepretations of the topics
+
+### Topic 1: Manufacturing Specific
+The latent topic covers the new manufacturing processes for Solar-power and obtain IP rights on the same which can risk their credibility in the market. The companies are also worries about their inventories and risks associated with them.
+ 
+ *******
+ 
+### Topic 2: The Company Client Relationship
+The latent topic captures the company’s relationship risks with their clients. The companies are worried about their clients in Health care, financial services, and their co-relation with Net sales which is driven by these clients. And also, the companies are worried about the net-sales associated with their clients. Companies are also worried about the regulatory risks from federal government.
+ 
+ ********
+ 
+### Topic 3:  Financial Specific
+The latent topic captures the risks of indebtness of the data centers. The changes in the packaging in the semi-conductor industry will impact the companies in million. The companies have also mentioned the risk about their credit facilities due to senior-unsecured.
+ 
+ *********
+ 
+### Topic 4: Competitors Acquisitions and Merger
+The latent topic captures the risks of the mergers and acquisitions of different companies which creates difficult challenges to maintain their current market with the increase in number of subscribers. The companies also feel the risk of advertising and search revenues.
+
 
